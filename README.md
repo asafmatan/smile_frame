@@ -1,4 +1,4 @@
-# smile_frame
+# Smile Frame
 
 Nice project to display encouragement pic file (png format) when you smile
 
