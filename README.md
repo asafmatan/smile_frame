@@ -17,3 +17,9 @@ This folder should contain:
 ```
 
 new_shell.sh can be found home folder of this repo.
+
+Raspbian Ver:
+VERSION="9 (stretch)"
+
+Smile detector reference:
+https://www.electromaker.io/project/view/open-cv--face-eyes--smile-detection-with-raspberry-pi
