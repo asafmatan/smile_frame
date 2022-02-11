@@ -21,5 +21,8 @@ new_shell.sh can be found home folder of this repo.
 Raspbian Ver:
 VERSION="9 (stretch)"
 
+HW Type:
+Raspberry Pi 3 Model B Plus Rev 1.3
+
 Smile detector reference:
 https://www.electromaker.io/project/view/open-cv--face-eyes--smile-detection-with-raspberry-pi
